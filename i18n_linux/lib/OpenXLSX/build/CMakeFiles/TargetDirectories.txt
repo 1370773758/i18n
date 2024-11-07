@@ -1,0 +1,13 @@
+/home/z/桌面/i18n_xlsx/lib/OpenXLSX-0.3.2/build/CMakeFiles/edit_cache.dir
+/home/z/桌面/i18n_xlsx/lib/OpenXLSX-0.3.2/build/CMakeFiles/rebuild_cache.dir
+/home/z/桌面/i18n_xlsx/lib/OpenXLSX-0.3.2/build/CMakeFiles/list_install_components.dir
+/home/z/桌面/i18n_xlsx/lib/OpenXLSX-0.3.2/build/CMakeFiles/install.dir
+/home/z/桌面/i18n_xlsx/lib/OpenXLSX-0.3.2/build/CMakeFiles/install/local.dir
+/home/z/桌面/i18n_xlsx/lib/OpenXLSX-0.3.2/build/CMakeFiles/install/strip.dir
+/home/z/桌面/i18n_xlsx/lib/OpenXLSX-0.3.2/build/OpenXLSX/CMakeFiles/OpenXLSX.dir
+/home/z/桌面/i18n_xlsx/lib/OpenXLSX-0.3.2/build/OpenXLSX/CMakeFiles/edit_cache.dir
+/home/z/桌面/i18n_xlsx/lib/OpenXLSX-0.3.2/build/OpenXLSX/CMakeFiles/rebuild_cache.dir
+/home/z/桌面/i18n_xlsx/lib/OpenXLSX-0.3.2/build/OpenXLSX/CMakeFiles/list_install_components.dir
+/home/z/桌面/i18n_xlsx/lib/OpenXLSX-0.3.2/build/OpenXLSX/CMakeFiles/install.dir
+/home/z/桌面/i18n_xlsx/lib/OpenXLSX-0.3.2/build/OpenXLSX/CMakeFiles/install/local.dir
+/home/z/桌面/i18n_xlsx/lib/OpenXLSX-0.3.2/build/OpenXLSX/CMakeFiles/install/strip.dir

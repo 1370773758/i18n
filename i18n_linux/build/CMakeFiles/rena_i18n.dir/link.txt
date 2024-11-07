@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/rena_i18n.dir/src/main.cpp.o CMakeFiles/rena_i18n.dir/src/rena_i18n_trans.cpp.o -o rena_i18n  output/libOpenXLSX.a 
